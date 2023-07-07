@@ -1,3 +1,15 @@
+html{
+	scroll-behavior: smooth;
+	overflow-x: hidden;
+}
+
+body{
+	overflow-x:hidden;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
 .contete{
 	height: 500px;
 	width: 300px;
@@ -6,8 +18,10 @@
 	justify-content: center;
 	align-items: center;
 	
+	
 
 }
+
 
 .contete img{
 	
